@@ -1,0 +1,21 @@
+{
+  "name": "access-safe",
+  "version": "0.1.0",
+  "description": "A lightweight package that makes dealing with Cannot read property of undefined errors easy in a way that your IDE can understand. No strings used.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwanago/access-safe.git"
+  },
+  "keywords": [
+    "safe-get",
+    "access-safe",
+    "undefined"
+  ],
+  "author": "Marcin Wanago <marcin@wanago.io> (https://wanago.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwanago/access-safe/issues"
+  },
+  "homepage": "https://github.com/mwanago/access-safe#readme"
+}
