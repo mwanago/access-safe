@@ -1,4 +1,5 @@
 # `access-safe`
+[![npm version](https://badge.fury.io/js/access-safe.svg)](https://badge.fury.io/js/access-safe)
 
 # Description
 A lightweight package that makes dealing with `Cannot read property of undefined` errors easy in a way that your IDE can understand. You can also specify a default value that will be returned, if the value will be undefined. No strings used.
